@@ -139,16 +139,6 @@ The comparison files are compact reference implementations under a unified
 input/output interface. They are not replacements for the original authors'
 official repositories when exact reproduction is required.
 
-## Reported results
-
-| Dataset | Window-level ACC | Trial-level ACC |
-|---|---:|---:|
-| SEED | 86.65% | 90.96% |
-| SEED-IV | 72.75% | 70.83% |
-
-The paper uses session-wise leave-one-subject-out evaluation. Dataset files and
-trained checkpoints are not included in this model-definition repository.
-
 ## Citation
 
 Please cite the associated SFER-Net paper if this code is useful. The final
