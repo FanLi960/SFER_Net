@@ -60,7 +60,7 @@ SFER-Net/
 ├── README.md
 ├── SFER_Net.py
 ├── assets/
-│   └── framework.pdf          # upload this file yourself
+│   └── framework.pdf  
 └── comparison_models/
     ├── DGCNN.py
     ├── RGNN.py
