@@ -24,22 +24,6 @@ flowchart LR
     E --> L["Cross-subject evidence learning"]
 ```
 
-The complete framework figure should be placed at:
-
-```text
-assets/framework.pdf
-```
-
-[Open the high-resolution framework figure](assets/framework.pdf)
-
-GitHub displays the Mermaid diagram above directly. If the exact paper figure
-should also appear inline, export the first page of the PDF as
-`assets/framework.png` and add this line below the PDF link:
-
-```markdown
-![SFER-Net framework](assets/framework.png)
-```
-
 ## Main ideas
 
 - **Hybrid electrode graph:** preserves the spatial electrode prior while a
